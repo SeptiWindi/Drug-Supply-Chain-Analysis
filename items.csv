@@ -1,0 +1,39 @@
+item_id;item_name;item_type;2020_selling_price;2021_selling_price
+OA0001;Ozen 10 MG Blister;Obat Alergi;18611;18816
+OA0002;Ketoconazole Ogb Dexa;Obat Alergi;4480;4507
+OA0003;Acetylcysteine Mahakam 200 mg;Obat Alergi;33000;33330
+OA0004;Bisoprolol Ogb Dexa;Obat Alergi;10000;10180
+OA0005;Bedak Heroxyn 150 gr;Obat Alergi;16950;17170
+OA0006;Dexteem Box Plus 100 Tablet;Obat Alergi;25322;25449
+OB0001;Neozep Forte 1 Strip 4 Tablet;Obat Batuk & Pilek;2324;2338
+OB0002;Decolsen 1 Strip 4 Tablet;Obat Batuk & Pilek;2886;2915
+OB0003;Silex Syrup;Obat Batuk & Pilek;75400;76456
+OB0004;Lo Han Kuo Infusion 12;Obat Batuk & Pilek;23869;24179
+OB0005;Vicks Formula 44 Antitusif;Obat Batuk & Pilek;23461;23836
+OB0006;Ultraflu Box Isi 25 Strip;Obat Batuk & Pilek;72500;73805
+OB0007;Vicks Inhaler 0.5 mL;Obat Batuk & Pilek;16155;16430
+OB0008;Konidin 4 Tablet;Obat Batuk & Pilek;2460;2490
+OB0009;Paratusin 1 Strip 10 Tablet;Obat Batuk & Pilek;13600;13818
+OH0001;Carditens;Obat Hipertensi;100000;100900
+OH0002;Concor 5MG Strip 10;Obat Hipertensi;102000;103632
+OH0003;Candesartan Ogb Dexa;Obat Hipertensi;5000;5095
+OH0004;Amlodipine Besilate;Obat Hipertensi;7467;7504
+OH0005;Irbesartan;Obat Hipertensi;108794;109447
+OH0006;Irvell 150MG Box 20 Tablet;Obat Hipertensi;143991;146871
+OH0007;Zevask 10 MG Box 50 Kaplet;Obat Hipertensi;30000;30540
+OK0001;Simvastatin 10 MG Strip 10;Obat Kolesterol;6222;6253
+OK0002;Hyperchol 100 MG 12 KPS;Obat Kolesterol;42800;43442
+OK0003;Trolip 100 MG 10 KPS;Obat Kolesterol;56300;56694
+OD0001;Koolfever;Obat Sakit Kepala & Demam;7500;7620
+OD0002;Blopress 8 MG 7 Tablet;Obat Sakit Kepala & Demam;92400;94063
+OD0003;Panadol Extra Tab;Obat Sakit Kepala & Demam;13100;13179
+OD0004;Hisamitsu Bye Bye Fever;Obat Sakit Kepala & Demam;7000;7035
+OD0005;Panadol Anak Tablet 1 Strip;Obat Sakit Kepala & Demam;25000;25450
+OD0006;Proris Ibuprofen;Obat Sakit Kepala & Demam;25000;25275
+OD0007;Sanmol Paracetamol;Obat Sakit Kepala & Demam;16100;16261
+OD0008;Bodrex Extra;Obat Sakit Kepala & Demam;50788;51753
+OD0009;Sanmol 500 MG 4 Tablet;Obat Sakit Kepala & Demam;1600;1619
+OD0010;Cilostazol Bernofarm;Obat Sakit Kepala & Demam;45450;46223
+OD0011;Paramex Tablet / Obat;Obat Sakit Kepala & Demam;2560;2586
+OT0001;Otilon Ear Drops 8 mL;Obat Telinga;55000;55935
+OT0002;Vital Ear Oil 10 mL;Obat Telinga;16350;16677
